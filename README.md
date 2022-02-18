@@ -3,4 +3,4 @@ SMART-TECH SPL fue creado con el fin de obtener una herramienta que permita regi
 
 
 Ventana Principal
-https://raw.githubsercontenct.com/m4rc3l04mar0/SMART-TECH-SPL-Java/main/Img/1-ventana%20principal.jpg
+https://github.com/m4rc3l04mar0/SMART-TECH-SPL-Java-/blob/main/Img/1-ventana%20principal.jpg
